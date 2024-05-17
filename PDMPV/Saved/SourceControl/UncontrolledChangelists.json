@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Materials/M_BaseColor.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Materials/M_Emmisive.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/J7/0AOD6FPQUM6E1BPL9VMNEV.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6P/82PYX0E7W7PKYCQUJ0KO82.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Materials/M_Blue.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/T5/MHS0WVV937KTOWI8KVL4PD.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Materials/M_Red.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JH/7LR4QJK4OT0WXQHJHVW7MK.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/source/neon_sign.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_Metallic.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_BaseColor.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_Roughness.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_Emissive.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_AO.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_Normal.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6R/R2QTVQT447NV3K2H1PVGX7.uasset",
+				"C:/Users/rchar/OneDrive/Documentos/GitHub/ProgramacionDeMaterialesParaVideojuegos/PDMPV/Content/Models/textures/low_Neon_sign_BaseColor_Mat.uasset"
+			]
+		}
+	]
+}
