@@ -1,5 +1,0 @@
-[0524/080536.304:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0524/104623.536:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0524/104623.538:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0524/110016.680:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
-[0524/110016.716:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101

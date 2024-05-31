@@ -1,0 +1,2 @@
+[0530/172415.052:ERROR:backend_impl.cc(2055)] Invalid cache (current) size
+[0530/172609.448:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
